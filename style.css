@@ -355,7 +355,7 @@
     width: 100%;
     height: auto;
     display: flex;
-    justify-content: space-everly;
+    justify-content: center;
     align-items: center;
     gap: 30px;
 }
